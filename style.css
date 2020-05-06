@@ -8,3 +8,9 @@ body{
 	background: #fff;
 	color: #000;
 }
+
+/* use this class into every section to keep content middle*/
+.wrapper{
+	width: 90%;
+	margin: 0 auto;
+}
